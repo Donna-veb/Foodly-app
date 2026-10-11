@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vite/
+*.local
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+rotation-backup-*.json
+vite.config.js
+vite.config.d.ts
+.DS_Store
+Thumbs.db
